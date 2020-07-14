@@ -1,3 +1,3 @@
 # Hey Everyone
-I work at GitHub on the community and ecosystem side. I like to golang.  
+I work at GitHub on all things api. I like to golang but lately i ruby.  
 
