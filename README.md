@@ -1,4 +1,4 @@
-# Hey There
+# Hey
 I work at GitHub on [GitHub Apps and Auth](https://docs.github.com/en/free-pro-team@latest/developers/apps). I like to golang but lately i ruby.  
 
 # Work
